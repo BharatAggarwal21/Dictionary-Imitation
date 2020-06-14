@@ -1,4 +1,4 @@
-# Dictionary-Imitation
+# Dictionary Using Trie
 The project is based on dictionary implementation through data structures. 
 The main data structure used is <b>Trie</b>.
 
